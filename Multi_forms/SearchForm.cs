@@ -26,11 +26,12 @@ namespace Multi_forms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text.Contains("دانیال"))
+            if (textBox1.Text.Contains("moti"))
             {
-                pf.textBox1.Text = "14001037";
+                pf.textBox1.Text = "140112028035";
                 this.Hide();
             }
+
         }
     }
 }
